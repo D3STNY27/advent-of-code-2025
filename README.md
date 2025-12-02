@@ -1,2 +1,2 @@
-# advent-of-code-2024
-Advent of Code - 2024 - Using Python
+# advent-of-code-2025
+Advent of Code - 2025 - Using Python
